@@ -1,4 +1,6 @@
-# 數與坐標系
+# 數系與坐標系
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+在計算天地萬物有關量的部分，抽象歸納出其共同的性質而得到的體系，我們稱之為數系。所以數系是討論自然界有關量的基本工具，而這些數系的性質，不但解決我們又關量的計算，也提升了我們計算量的效能。
+
+笛卡爾創建了坐標系，將複雜難解的幾何問題，帶入坐標系中，利用代數的計算解決了幾何問題，坐標系是幾何代數化的創舉。
 
